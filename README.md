@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -41,7 +42,7 @@
 <body>
 
   <div class="container">
-    <h2>Pendaftaran WARUNG DIGITAL</h2>
+    <h2>MENDAFTAR KE WARUNG DIGITAL</h2>
     <form id="registrationForm">
       <label for="email">Email:</label>
       <input type="email" id="email" name="email" required>
